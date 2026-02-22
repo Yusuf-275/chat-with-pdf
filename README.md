@@ -4,14 +4,6 @@ An AI-powered web application that allows users to chat with PDF documents. Uplo
 
 This project was built as an academic mini-project to demonstrate practical usage of LLMs, embeddings, and retrieval-augmented generation (RAG).
 
----
-
-## ✨ Demo
-
-📌 _Add screenshots / screen recording GIF here_
-
----
-
 ## 🚀 Key Features
 
 - 📂 Upload and process multiple PDF documents  
@@ -20,10 +12,9 @@ This project was built as an academic mini-project to demonstrate practical usag
 - ⚡ Fast retrieval using vector database (FAISS/ChromaDB)  
 - 🖥️ Clean web UI using Streamlit  
 - 🔐 API key handling using environment variables  
-- 🧩 Modular code structure for easy extension  
+- 🧩 Modular code structure for easy extension
 
----
-
+  
 ## 🏗️ System Architecture (High-Level)
 
 User Query
@@ -38,7 +29,6 @@ LLM
 ↓
 Final Answer
 
----
 
 ## 🧠 How the System Works (RAG Pipeline)
 
@@ -51,7 +41,6 @@ Final Answer
 7. Retrieved context is passed to the LLM  
 8. Final grounded answer is generated  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +52,6 @@ Final Answer
 - OpenAI / Local LLM  
 - python-dotenv  
 
----
 
 ## 📊 Use Cases
 
@@ -73,7 +61,6 @@ Final Answer
 - College mini project  
 - Personal AI document assistant  
 
----
 
 ## 🧪 Design Considerations
 
@@ -83,7 +70,6 @@ Final Answer
 - Modular design for future extensions  
 - RAG pipeline to reduce hallucinations  
 
----
 
 ## 🛣️ Future Improvements
 
@@ -95,7 +81,6 @@ Final Answer
 - Cloud deployment  
 - User authentication  
 
----
 
 ## 🙌 Credits
 
@@ -106,7 +91,6 @@ This project was built with learning guidance from:
 
 All design choices and implementation decisions were done independently for learning and experimentation.
 
----
 
 ## ⭐ Support
 If you find this useful, consider giving the repo a ⭐ — it really helps!
