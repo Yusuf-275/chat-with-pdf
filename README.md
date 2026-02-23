@@ -49,7 +49,7 @@ Final Answer
 - LangChain  
 - FAISS / ChromaDB  
 - PyPDF  
-- OpenAI / Local LLM  
+- Google Gemini / Local LLM  
 - python-dotenv  
 
 
